@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Compile Remove="SecureDeviceControl.DeviceSimulator\**" />
+    <Compile Remove="SecureDeviceControl.Tests\**" />
   </ItemGroup>
 
   <ItemGroup>
